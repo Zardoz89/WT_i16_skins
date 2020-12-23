@@ -1,0 +1,21 @@
+name:t="user"
+
+replace_tex{
+  from:t="i_16_type_27_standard_a*"
+  to:t="i_16_type_27_spain_republic_a.tga"
+}
+
+replace_tex{
+  from:t="i_16_type_27_standard_a_dmg*"
+  to:t="i_16_type_27_spain_republic_a_dmg.tga"
+}
+
+replace_tex{
+  from:t="i_16_type_27_standard_n*"
+  to:t="i_16_type_27_standard_n.tga"
+}
+
+replace_tex{
+  from:t="i_16_type_27_standard_n_dmg*"
+  to:t="i_16_type_27_standard_n_dmg.tga"
+}

@@ -1,0 +1,21 @@
+name:t="user"
+
+replace_tex{
+  from:t="i_16_type_10_green_c*"
+  to:t="i_16_type_10_green.tga"
+}
+
+replace_tex{
+  from:t="i_16_type_10_green_c_dmg*"
+  to:t="i_16_type_10_green_c_dmg.tga"
+}
+
+replace_tex{
+  from:t="i_16_type_10_green_n*"
+  to:t="i_16_type_10_green_n.tga"
+}
+
+replace_tex{
+  from:t="i_16_type_10_green_n_dmg*"
+  to:t="i_16_type_10_green_n_dmg.tga"
+}
